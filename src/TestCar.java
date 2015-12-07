@@ -5,7 +5,7 @@ public class TestCar
             Car car1 = new Car();
             Car car2 = new Car();
 
-            car1.color="blue";
+            car1.color="blue+ellow";
             car2.color="red";
 
                 System.out.println("First cars color  is "+ car1.color );
